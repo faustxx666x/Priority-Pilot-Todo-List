@@ -28,7 +28,7 @@ body{
 
 .pilot{
     position: fixed;
-    height: 0px;
+    height: auto;
     left: 10px;
     width: 100px;
 }
